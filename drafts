@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/81fb55c7c9.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lato:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Invsible Card</title>
+</head>
+<body>
+    <div class="container">
+        <div class="background"></div>
+        <div class="card-wrapper">
+            <div class="card">
+                <img src="me copy.JPG" class="card-img">
+                <h1 class="card-heading">Clair Fromme</h1>
+                <p class="card-paragraph"><i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus itaque eligendi et sequi ab dolorum deserunt cum similique eius ad, harum animi dolores obcaecati consequatur aut non ut sit nemo.<i class="fas fa-quote-right"></i></p>
+                <ul class="card-icons">
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="card-icon fab fa-facebook-square"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="card-icon fab fa-instagram"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="card-icon fab fa-github"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="fas fa-envelope-open"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="fas fa-phone"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="card-icon-link">
+                            <i class="fas fa-address-card"></i>
+                        </a>
+                    </li>
+                </ul>
+                <button class="card-btn">View Profile</button>
+
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
+
+
+
